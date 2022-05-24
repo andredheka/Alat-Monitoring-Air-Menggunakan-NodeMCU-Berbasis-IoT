@@ -32,3 +32,32 @@ Pada Gambar Diatas merupakan tampilan website untuk pengguna melakukan pencarian
 ![3  Data Meteran Air](https://user-images.githubusercontent.com/105591427/170085176-84d46dba-4176-4977-b1f4-b382812ddd69.png)
 
 Pada Gambar diatas merupakan tampilan website untuk menampilkan data data pemakaian pengguna yang telah di masukan pada kolom pencarian sebelumnya data tersebut berupa nama pengguna, alamat total pemakaian dan biaya pemakaian perbulan.
+
+## TAMPILAN WEB ADMIN
+
+Tampilan Admin Ini Diantaranya Ada Input Data, Data Pengguna ,Rekap Biaya Perbulan, Data Pemakaian. 
+
+![4  Dashboard Admin](https://user-images.githubusercontent.com/105591427/170087930-95902496-387a-4286-8124-0887b3feb68a.png)
+
+Pada Gambar Diatas Merupakan tampilan website untuk admin melihat jumlah dari daftar pengguna meteran air.  
+
+![5  Input Data](https://user-images.githubusercontent.com/105591427/170088277-52a833d6-f20d-41df-a6f9-49a2071415e7.png)
+
+Pada Gambar Diatas Merupakan tampilan website untuk admin menginput data pengguna berupa id, nama pengguna dan alamat. 
+
+![6  Data Pengguna](https://user-images.githubusercontent.com/105591427/170088412-b5ac509d-4b92-466e-9a51-bb8f2a09a1a2.png)
+
+Pada Gambar Diatas Merupakan tampilan website untuk admin melihat daftar data para pengguna serta admin juga dapat melakukan edit,hapus serta merekap data pemakaian pengguna. 
+
+![7  Rekap Biaya](https://user-images.githubusercontent.com/105591427/170088587-096b1dfd-1974-4b84-b2a3-d7eeb236223d.png)
+
+Pada Gambar Diatas Merupakan tampilan website untuk admin merekap biaya pemakaian pengguna setiap bulannya. 
+
+![8  Data Pemakaian](https://user-images.githubusercontent.com/105591427/170088869-6ddbf3f9-2be9-4c5b-9ed2-6fb0a7dd741f.png)
+
+Pada Gambar Diatas Merupakan tampilan website untuk admin melihat data pemakaian pelanggan. 
+
+Untuk lebih detailnya silahkan liat video saya di https://www.youtube.com/watch?v=WxvCw1zcEjs&t=1s 
+Terimakasih..
+
+
