@@ -33,7 +33,7 @@ Pada Gambar Diatas merupakan tampilan website untuk pengguna melakukan pencarian
 
 Pada Gambar diatas merupakan tampilan website untuk menampilkan data data pemakaian pengguna yang telah di masukan pada kolom pencarian sebelumnya data tersebut berupa nama pengguna, alamat total pemakaian dan biaya pemakaian perbulan.
 
-## TAMPILAN WEB ADMIN
+## Tampilan Web Admin
 
 Tampilan Admin Ini Diantaranya Ada Input Data, Data Pengguna ,Rekap Biaya Perbulan, Data Pemakaian. 
 
@@ -58,6 +58,7 @@ Pada Gambar Diatas Merupakan tampilan website untuk admin merekap biaya pemakaia
 Pada Gambar Diatas Merupakan tampilan website untuk admin melihat data pemakaian pelanggan. 
 
 Untuk lebih detailnya silahkan liat video saya di https://www.youtube.com/watch?v=WxvCw1zcEjs&t=1s 
+
 Terimakasih..
 
 
